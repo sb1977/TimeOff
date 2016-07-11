@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings>
+  <Enable>True</Enable>
+  <Schedule>
+    <Day Name="Sunday">
+      <From>02:00</From>
+      <To>17:00</To>
+    </Day>
+    <Day Name="Monday">
+      <From>02:00</From>
+      <To>17:00</To>
+    </Day>
+    <Day Name="Tuesday">
+      <From>02:00</From>
+      <To>17:00</To>
+    </Day>
+    <Day Name="Wednesday">
+      <From>02:00</From>
+      <To>17:00</To>
+    </Day>
+    <Day Name="Thursday">
+      <From>02:00</From>
+      <To>17:00</To>
+    </Day>
+  </Schedule>
+</Settings>
